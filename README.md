@@ -4,7 +4,7 @@
  <p align="center">
   IBM Professional Certificate
   <br />
-  <a href=https://github.com/BinariesGoalls/IBM-Data-Engineering-Professional-Certificate>Explore the repository»</strong></a>
+  <a href=https://github.com/archie-cm/Data_Engineering_Course>Explore the repository»</strong></a>
   <br />
   <br />
  </p>
@@ -49,8 +49,6 @@ There are 13 Courses in this Professional Certificate
 
 ## **Contact**
 
-Alisson lima - ali2slima10@gmail.com
+Archie Citra Muhammad - archiecm09@gmail.com
 
-Project Link: [https://github.com/BinariesGoalls/Data-Engineering-Nanodegree](https://github.com/BinariesGoalls/IBM-Data-Engineering-Professional-Certificate)
-
-Linkedin: [https://www.linkedin.com/in/binariesgoalls/](https://www.linkedin.com/in/binariesgoalls/)
+Linkedin: [https://www.linkedin.com/in/archie-citra-muhammad-99a68165/](https://www.linkedin.com/in/archie-citra-muhammad-99a68165/)
